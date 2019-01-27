@@ -1,0 +1,20 @@
+section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 800px;
+    margin: 20px auto;
+}
+
+.range-view {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+.range-output {
+    width: 300px;
+    height: 100px;
+    border: 1px dashed orange;
+    padding: 10px;
+}
